@@ -4,6 +4,6 @@ border-radius: 10px;
 	}
 .tyt:hover{
         background-color: yellow;
-        color: black;
+        color: rgb(0,0,0);
 	border-radius:30px;
       }
